@@ -2,7 +2,12 @@
 YOUR STYLES
 *******************/
 
-
+h1 {
+    color: cadetblue;
+    font-size: 3em;
+    text-align: center;
+    padding: 3em;
+}
 
 
 /********************
